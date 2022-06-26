@@ -1,0 +1,25 @@
+body{
+    background-image: url('/Pictures/frontPage2.gif');
+    background-size: cover;
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+.title{
+    padding: 150px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.titleText{
+    width: 700px;
+    position: fixed;
+    margin-left: 500px;
+}
+.textBeschreib{
+    background-color: hsla(0, 0%, 100%, 0.253);
+    position: fixed;
+    margin-top: 200px;
+    margin-left: 1300px;
+    width: 400px;
+}
